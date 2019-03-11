@@ -46,3 +46,59 @@ Thank `You` . Please `Call` Me `Coder`
   * 脚本语言
     * Python
 第二行一个Tab，第三行两个Tab。这样用来表示层级结构就更清晰了吧，看效果：
+
+
+缩进
+缩进的含义是很容易理解的。。
+
+>数据结构
+>>树
+>>>二叉树
+>>>>平衡二叉树
+>>>>>满二叉树
+
+
+插入图片
+
+
+来源于网络的图片
+
+
+网上有很多README插入图片的教程了，经我自己多次测试呢，发现可以使用的最简单，最基本的语法是：
+
+![](http://www.baidu.com/img/bdlogo.gif)
+即 叹号! + 方括号[ ] + 括号( ) 其中叹号里是图片的URL。
+
+如果不加叹号! ,就会变成普通文本baidu了。
+
+在方括号里可以加入一些 标识性的信息，比如
+
+![baidu](http://www.baidu.com/img/bdlogo.gif)
+这个方括号里的baidu并不会对图像显示造成任何改动，如果你想达到鼠标悬停显示提示信息，那么可以仿照前面介绍的文本中的方法，就是这样：
+
+![baidu](http://www.baidu.com/img/bdlogo.gif "百度logo")
+
+
+插入图片
+
+
+来源于网络的图片
+
+
+网上有很多README插入图片的教程了，经我自己多次测试呢，发现可以使用的最简单，最基本的语法是：
+
+![](http://www.baidu.com/img/bdlogo.gif)
+即 叹号! + 方括号[ ] + 括号( ) 其中叹号里是图片的URL。
+
+如果不加叹号! ,就会变成普通文本baidu了。
+
+在方括号里可以加入一些 标识性的信息，比如
+
+![baidu](http://www.baidu.com/img/bdlogo.gif)
+这个方括号里的baidu并不会对图像显示造成任何改动，如果你想达到鼠标悬停显示提示信息，那么可以仿照前面介绍的文本中的方法，就是这样：
+
+![baidu](http://www.baidu.com/img/bdlogo.gif "百度logo")
+
+
+
+
